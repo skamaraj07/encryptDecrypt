@@ -6,4 +6,7 @@ Algorithm used to encrypt the image:
 2. Each byte is xor'ed using the key "5".
 
 Task to complete:
-1.Since its symmetric key encryption, you need to write same algorithm in your favorite language and decrypt the image. 
+Since its symmetric key encryption, you need to write same algorithm in your favorite language and decrypt the image. Once the image is decrypted, please send your code and decrypted image over to snigdhadevelop. Things we will be looking for:
+1. Self documented code
+2. Good variable naming
+3. Efficient code.
